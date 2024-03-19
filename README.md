@@ -26,6 +26,6 @@ python manage.py runserver
 For customer login:
 username:"user" password:"user"
 For Employee login:
-username:"admin" password:"123456789"
+username:"admin" password:"Rohit@123"
 For Admin login:
-username:"dkp" password:"Dkp@4321"
+username:"rohit" password:"Bunny123"
